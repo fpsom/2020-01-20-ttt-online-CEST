@@ -10,7 +10,7 @@ enddate: 2020-01-21        # machine-readable end date for the workshop in YYYY-
 instructor: ["Gerard Capes", "Fotis Psomopoulos"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["gerard.capes@manchester.ac.uk", "fpsom@certh.gr"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-etherpad: https://drive.google.com/file/d/1M6wMwIdgUwj3t_xtg_1FIF0XTtu90zCr/view?usp=sharing             # optional: URL for the workshop Etherpad if there is one
+etherpad: https://pad.carpentries.org/2020-01-20-ttt-online-CEST #https://drive.google.com/file/d/1M6wMwIdgUwj3t_xtg_1FIF0XTtu90zCr/view?usp=sharing             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
